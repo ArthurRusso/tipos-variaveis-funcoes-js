@@ -1,2 +1,2 @@
 # tipos-variaveis-funcoes-js
-Estudando JavaScript na plataforma Alura
+Estudando JavaScript do zero na plataforma Alura
